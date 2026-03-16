@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Muhammad Sufyan | Digital Strategist & Web Designer
 
-# Run and deploy your AI Studio app
+Welcome to the repository for my portfolio. This repository showcases a curated collection of high-end digital experiences, focused on minimalist aesthetics, premium branding, and seamless user interaction.
 
-This contains everything you need to run your app locally.
+## ✨ Philosophy
+I believe in creating digital storefronts that are as functional as they are beautiful. My work focuses on:
+* **Premium Visuals:** Clean layouts with a focus on typography and high-quality imagery.
+* **Atmospheric Design:** Creating a specific "vibe" and mood for every brand.
+* **Performance:** Ensuring every project is fast, responsive, and easy to navigate.
 
-View your app in AI Studio: https://ai.studio/apps/e21a6a74-1b26-4317-b7a9-246ad7951613
+## 📬 Get In Touch
+For project inquiries or collaborations, please reach out directly via email:
 
-## Run Locally
+**Email:** muhammadsufyan.services@gmail.com
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*Built with precision and discipline.*
