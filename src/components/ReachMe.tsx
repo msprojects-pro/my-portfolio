@@ -23,16 +23,18 @@ export default function ReachMe() {
 
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-12 mb-12">
             <motion.a
-              href="mailto:muhammadsufyan.services@gmail.com"
-              whileHover={{ scale: 1.05, y: -5 }}
-              whileTap={{ scale: 0.95 }}
-              className="flex items-center gap-4 px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:border-[#4adeff]/50 hover:bg-[#4adeff]/10 transition-all group w-full md:w-auto"
-            >
-              <span className="text-[#4adeff] group-hover:animate-bounce"><FiMail size={24} /></span>
-              <span className="text-gray-300 font-medium group-hover:text-white transition-colors">
-                muhammadsufyan.services@gmail.com
-              </span>
-            </motion.a>
+  href="mailto:muhammadsufyan.services@gmail.com"
+  whileHover={{ scale: 1.05, y: -5 }}
+  whileTap={{ scale: 0.95 }}
+  className="flex items-center gap-3 md:gap-4 px-6 md:px-8 py-4 rounded-full bg-white/5 border border-white/10 hover:border-[#4adeff]/50 hover:bg-[#4adeff]/10 transition-all group w-full md:w-auto max-w-full overflow-hidden"
+>
+  <span className="text-[#4adeff] group-hover:animate-bounce">
+    <FiMail size={24} />
+  </span>
+  <span className="text-gray-300 font-medium group-hover:text-white transition-colors break-all text-sm md:text-base">
+    muhammadsufyan.services@gmail.com
+  </span>
+</motion.a>
 
             <motion.a
               href="https://wa.me/923101606541"
