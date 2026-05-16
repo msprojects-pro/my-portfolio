@@ -46,7 +46,7 @@ export default function ReachMe() {
             >
               <span className="text-[#25D366] group-hover:animate-bounce"><FaWhatsapp size={24} /></span>
               <span className="text-gray-300 font-medium group-hover:text-white transition-colors">
-                +92 310 1606 541
+                +447828750719
               </span>
             </motion.a>
           </div>
