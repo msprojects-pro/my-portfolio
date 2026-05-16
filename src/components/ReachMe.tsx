@@ -37,7 +37,7 @@ export default function ReachMe() {
 </motion.a>
 
             <motion.a
-              href="https://wa.me/923101606541"
+              href="https://wa.me/447828750719"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05, y: -5 }}
